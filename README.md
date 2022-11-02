@@ -1,3 +1,3 @@
 # htmlcssjavascriptreact
 
-www.patika.dev 
+https://app.patika.dev/cirpanrafet 
